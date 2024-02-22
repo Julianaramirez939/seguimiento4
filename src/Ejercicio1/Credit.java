@@ -1,4 +1,4 @@
-package Ejercicio1; // Asegúrate de que el nombre del paquete esté escrito correctamente
+package Ejercicio1; 
 
 
 
